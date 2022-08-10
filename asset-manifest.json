@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/discuss/static/css/main.aa15ede0.chunk.css",
+    "main.js": "/discuss/static/js/main.6482a12d.chunk.js",
+    "main.js.map": "/discuss/static/js/main.6482a12d.chunk.js.map",
+    "runtime-main.js": "/discuss/static/js/runtime-main.54df177f.js",
+    "runtime-main.js.map": "/discuss/static/js/runtime-main.54df177f.js.map",
+    "static/css/2.ca756f56.chunk.css": "/discuss/static/css/2.ca756f56.chunk.css",
+    "static/js/2.233b77c0.chunk.js": "/discuss/static/js/2.233b77c0.chunk.js",
+    "static/js/2.233b77c0.chunk.js.map": "/discuss/static/js/2.233b77c0.chunk.js.map",
+    "static/js/3.2128f383.chunk.js": "/discuss/static/js/3.2128f383.chunk.js",
+    "static/js/3.2128f383.chunk.js.map": "/discuss/static/js/3.2128f383.chunk.js.map",
+    "index.html": "/discuss/index.html",
+    "static/css/2.ca756f56.chunk.css.map": "/discuss/static/css/2.ca756f56.chunk.css.map",
+    "static/css/main.aa15ede0.chunk.css.map": "/discuss/static/css/main.aa15ede0.chunk.css.map",
+    "static/js/2.233b77c0.chunk.js.LICENSE.txt": "/discuss/static/js/2.233b77c0.chunk.js.LICENSE.txt",
+    "static/media/Telegram.bbca961d.png": "/discuss/static/media/Telegram.bbca961d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54df177f.js",
+    "static/css/2.ca756f56.chunk.css",
+    "static/js/2.233b77c0.chunk.js",
+    "static/css/main.aa15ede0.chunk.css",
+    "static/js/main.6482a12d.chunk.js"
+  ]
+}
